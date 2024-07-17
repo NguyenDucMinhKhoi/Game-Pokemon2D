@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SoildObjects
+  - LongGrass
+  - Interactable
+  - Player
+  - FovLayer
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 217039705
+    locked: 0
+  - name: Foreground14
+    uniqueID: 2326733155
+    locked: 0
+  - name: Foreground13
+    uniqueID: 913057481
+    locked: 0
+  - name: Foreground12
+    uniqueID: 2277309695
+    locked: 0
+  - name: Foreground11
+    uniqueID: 481141091
+    locked: 0
+  - name: Foreground10
+    uniqueID: 1015577183
+    locked: 0
+  - name: Foreground9
+    uniqueID: 3225949863
+    locked: 0
+  - name: Foreground8
+    uniqueID: 2269237289
+    locked: 0
+  - name: Foreground7
+    uniqueID: 4070880499
+    locked: 0
+  - name: Foreground6
+    uniqueID: 2181642253
+    locked: 0
+  - name: Foreground5
+    uniqueID: 4110864003
+    locked: 0
+  - name: Foreground4
+    uniqueID: 612775737
+    locked: 0
+  - name: Foreground3
+    uniqueID: 2583959293
+    locked: 0
+  - name: Foreground2
+    uniqueID: 2309771129
+    locked: 0
+  - name: Foreground1
+    uniqueID: 778250085
+    locked: 0
+  - name: Foreground
+    uniqueID: 382458595
+    locked: 0
+  - name: Player
+    uniqueID: 556681323
+    locked: 0
+  - name: Battle
+    uniqueID: 786641695
+    locked: 0

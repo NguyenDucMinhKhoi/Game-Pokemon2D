@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a0731d1c4e754141b3c38e38c29f81e, type: 3}
+  m_Name: Meowth
+  m_EditorClassIdentifier: 
+  name: Meowth
+  description: 
+  frontSprite: {fileID: 21300000, guid: 91e24865c1b16c64fa016456cc9cfc5a, type: 3}
+  backSprite: {fileID: 21300000, guid: 1e375b26a99810540bbee437e9011449, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 40
+  attack: 45
+  defense: 35
+  spAttack: 40
+  spDefense: 40
+  speed: 90
+  catchRate: 255
+  learnableMoves: []

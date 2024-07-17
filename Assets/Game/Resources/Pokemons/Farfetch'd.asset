@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a0731d1c4e754141b3c38e38c29f81e, type: 3}
+  m_Name: Farfetch'd
+  m_EditorClassIdentifier: 
+  name: Farfetch'd
+  description: 
+  frontSprite: {fileID: 21300000, guid: e8c76ffe565a2ec40a0581928268de1d, type: 3}
+  backSprite: {fileID: 21300000, guid: 963562241ea26d44dbb906971b85be75, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 52
+  attack: 90
+  defense: 55
+  spAttack: 58
+  spDefense: 62
+  speed: 60
+  catchRate: 255
+  learnableMoves: []
