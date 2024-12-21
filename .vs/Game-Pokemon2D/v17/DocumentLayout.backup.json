@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code Game\\Game-Pokemon2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|d:\\code game\\game-pokemon2d\\assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|d:\\code game\\game-pokemon2d\\assets\\scripts\\battle\\partyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\partyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|d:\\code game\\game-pokemon2d\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|d:\\code game\\game-pokemon2d\\assets\\scripts\\ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|d:\\code game\\game-pokemon2d\\assets\\scripts\\pokemons\\pokemonparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D762165-3328-E5F5-9B09-070B0BE96743}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemons\\pokemonparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\UI\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuController.cs",
+              "ToolTip": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\UI\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:58:05.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartyScreen.cs",
+              "DocumentMoniker": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Battle\\PartyScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\PartyScreen.cs",
+              "ToolTip": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Battle\\PartyScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\PartyScreen.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:52:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonParty.cs",
+              "DocumentMoniker": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Pokemons\\PokemonParty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemons\\PokemonParty.cs",
+              "ToolTip": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Pokemons\\PokemonParty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemons\\PokemonParty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:36:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleSystem.cs",
+              "DocumentMoniker": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Battle\\BattleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleSystem.cs",
+              "ToolTip": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\Battle\\BattleSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleSystem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAFsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:17:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Code Game\\Game-Pokemon2D\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:46:37.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
